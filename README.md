@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------
 
 
-![](./design/elated-bartik-5d35b4.netlify.app_)
+![](./design/elated-bartik-5d35b4.netlify.app_.png)
 
 
 
